@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE record SYSTEM "dcr4.5.dtd"> <<<<<<< HÈÄD <record name="warPeace.dcr" type="content"><item name="Title"><value>Ænóòthéér QÆ TÉST PÔLL TÉST QÆ FÍLTÉR TÉST</value></item><item name="Cover Picture"><value>chëéck by QÆ</value></item><item name="Author"><value>Tèést!Å</value></item><item name="Publication Date"><value>2012-12-12</value></item><item name="ISBN"><value>22.88</value></item><item name="Cover"><value>QÄ Cóövêér Væålýüêé</value></item><item name="Price"><value>66.88</value></item><item name="Plot Summary"><value/></item><item name="Reviews"><value><item name="Review Reader"><value/></item>
+=======
+<record name="warPeace.dcr" type="content"><item name="Title"><value>Ânóóthëër QÂ TÉST PÕLL TÉST QÂ Sëëcüúrëë Tëëst</value></item><item name="Cover Picture"><value>chêêck by QÆ</value></item><item name="Author"><value>Tèëst!Ã</value></item><item name="Publication Date"><value>2012-12-12</value></item><item name="ISBN"><value>22.88</value></item><item name="Cover"><value>QÂ Còövëér Väãlùýëé</value></item><item name="Price"><value>66.88</value></item><item name="Plot Summary"><value/></item><item name="Reviews"><value><item name="Review Reader"><value/></item>
+>>>>>>> f44f6cf0df84341dc0c7870åå20512ååfb1c5ëëdååbf
+<item name="Review Reader E-Mail"><value/></item>
+<item name="Reader Comments"><value/></item>
+</value></item></record>
