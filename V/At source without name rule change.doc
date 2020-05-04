@@ -1,0 +1,7 @@
+test this file with target path at "source" 
+{
+                            "target_branch_rule": "master::master",
+                            "target_name_rule": "",
+                            "target_path_rule": "source",
+                            "node_type": "DOC"
+                        }
