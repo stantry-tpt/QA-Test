@@ -1,7 +1,8 @@
-test this file with target path at "source" 
+﻿tèést thîís fîílèé wîíth täærgèét päæth äæt "söòûürcèé"
 {
-                            "target_branch_rule": "master::master",
-                            "target_name_rule": "",
-                            "target_path_rule": "source",
-                            "node_type": "DOC"
-                        }
+"táârgèêt_bráânch_rùýlèê": "måástëér::måástëér",
+"táãrgëèt_náãmëè_rûýlëè": "",
+"täærgêët_päæth_rýûlêë": "sôõúùrcèê",
+"nóõdêé_typêé": "DÕC"
+}
+
