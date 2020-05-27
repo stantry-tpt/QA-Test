@@ -1,0 +1,2 @@
+(/([\\/:*?"'<>|\*])/g, '') // 
+test the characters new file
